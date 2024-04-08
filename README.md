@@ -1,4 +1,4 @@
-![image](https://github.com/dralgroup/lzsh24/assets/99856727/4c38ced4-370a-4856-9840-63e388f268f1)# Surface-hopping molecular dynamics based on the Landau–Zener–Belyaev–Lebedev (LZBL) algorithm
+# Surface-hopping molecular dynamics based on the Landau–Zener–Belyaev–Lebedev (LZBL) algorithm
 
 You can find tutorials on how to perform the surface hopping dynamics simulations with [MLatom](http://MLatom.com) (https://github.com/dralgroup/mlatom), version >= 3.3.0, at http://mlatom.com/docs/tutorial_namd.html.
 
@@ -12,7 +12,7 @@ Trajectories reported in the paper:
 
 - LZSH with MLatom for:
   - methaniminium cation
-  - pyrazine
+  - pyrazine https://figshare.com/s/d597dfbcf8e94cf2c694
   - azobenzene
   - molecular ferro-wire
 - FSSH with the MNDO program for azobenzene and ferro-wire at https://figshare.com/s/3484aa0e71848c66489f.
