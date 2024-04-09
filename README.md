@@ -11,7 +11,7 @@ When using these materials, please cite:
 Trajectories reported in the paper:
 
 - LZSH with MLatom for:
-  - methaniminium cation
+  - methaniminium cation https://figshare.com/s/acdb4f5c2f812bf244a7
   - pyrazine https://figshare.com/s/d597dfbcf8e94cf2c694
   - azobenzene
   - molecular ferro-wire
