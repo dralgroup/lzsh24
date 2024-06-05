@@ -11,10 +11,10 @@ When using these materials, please cite:
 Trajectories reported in the paper:
 
 - LZSH with MLatom for:
-  - methaniminium cation https://figshare.com/s/acdb4f5c2f812bf244a7
-  - pyrazine https://figshare.com/s/d597dfbcf8e94cf2c694
-  - azobenzene https://figshare.com/s/01409299c95fd6a267db
-  - molecular ferro-wire https://figshare.com/s/d31dd7134a2155913f65
-- FSSH with the MNDO program for azobenzene and ferro-wire at https://figshare.com/s/3484aa0e71848c66489f.
+  - methaniminium cation dx.doi.org/10.6084/m9.figshare.25567977
+  - pyrazine dx.doi.org/10.6084/m9.figshare.25562076
+  - azobenzene dx.doi.org/10.6084/m9.figshare.25574358
+  - molecular ferro-wire dx.doi.org/10.6084/m9.figshare.25592271
+- FSSH with the MNDO program for azobenzene and ferro-wire at dx.doi.org/10.6084/m9.figshare.25524910
 
 
